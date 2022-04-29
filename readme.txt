@@ -1,6 +1,6 @@
 PRINTING NOTES
 
-Ideally this part should be printed at .1mm later height with 100% infill for best results.
+Ideally this part should be printed at .1mm layer height with 100% infill for best results.
 
 But it should also work on a well tuned printer at .2mm layer height at 100% infill.
 
